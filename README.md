@@ -11,4 +11,4 @@ This repository includes:
 
 🔣 decisions for some daily tasks
 
-I hope it will help you to understand my code-style and knowladges I have.
+I hope it will help you to get my code-style and knowladges I have.
